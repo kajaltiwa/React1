@@ -1,0 +1,41 @@
+/* *{
+    margin: 0;
+    background-color: rgb(240, 233, 165);
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.center{
+    width: 80%;
+    margin: auto;
+   
+}
+.center h2{
+    margin-bottom: 10px;
+    color: white;
+    background-color: rgb(46, 22, 22);
+}
+.center input{
+    width: 99%;
+    margin-bottom: 10px;
+    padding: 10px 0;
+    font-size: 15px;
+}*/
+/* .center button{
+    width: 99%;
+    color: rgb(214, 24, 24);
+    background-color: rgb(46, 30, 30);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    font-size: 20px;
+}  */
+
+.background{
+    background: linear-gradient(to right,gray,black);
+}
+
+/* action{
+    border-bottom: 5px solid black;
+} */
