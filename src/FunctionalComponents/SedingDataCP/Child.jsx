@@ -13,7 +13,7 @@ export default function Child({ getData }) {
     }
   return (
     <>
-    <h2>this is child component</h2>
+    <h2>this is child component in React js</h2>
     <button onClick={sendData}>Send Data</button>
     </>
   )
